@@ -1,7 +1,7 @@
  void Init()
   {    
     case_sensitive_ = false;
-    current = nullptr; end = nullptr; last_found = nullptr;
+    current = nullptr; end = nullptr; last_found = nullptr;//yes
   }
 
   bool FindNext_CaseSensitive()
